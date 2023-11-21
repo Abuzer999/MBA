@@ -1,9 +1,11 @@
 # TECHNOLOGIES I USED
 
-• HTML
-• SCSS
-• JS
-• GULP
-• SWIPER.JS
-• GSAP
+<ul>
+  <li>HTML</li>
+  <li>SCSS</li>
+  <li>JS</li>
+  <li>GULP</li>
+  <li>SWIPER.JS</li>
+  <li>GSAP</li>
+</ul>
 
